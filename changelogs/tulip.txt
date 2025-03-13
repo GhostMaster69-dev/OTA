@@ -1,0 +1,6 @@
+What's new:
+=======================
+
+• Initial Android 15 QPR1 (February 2025 patches) release.
+
+=======================
